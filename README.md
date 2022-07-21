@@ -1,13 +1,12 @@
-[![MasterHead](https://tenor.com/bPuhb.gif)
+[![MasterHead](https://gifs.com/gif/1-hour-matrix-rain-code-Q1xW4q)
 <h1 align="center">Hi 👋, I'm Asintha Wijesinghe</h1>
 <h3 align="center">undergraduate at Uwa Wellassa University of Sri lanka</h3>
-<img align="right" alt="Coding" width="400" src= "">
-<p align="left">
-<img src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media.gif"> </p>
+<img align="right" alt="Coding" width="400" src= "https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asintha008&label=Profile%20views&color=0e75b6&style=flat" alt="asintha008" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚡**get well with fun**
+- ⚡ Fun fact **get well with fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
