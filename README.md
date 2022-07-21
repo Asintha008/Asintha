@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Asintha Wijesinghe</h1>
 <h3 align="center">undergraduate at Uwa Wellassa University of Sri lanka</h3>
 <img align="right" alt="Coding" width="400" src= "https://tenor.com/view/coding-gif-24625099">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asintha008&label=Profile%20views&color=0e75b6&style=flat" alt="asintha008" /> </p>
+<p align="left"> <img src="https://github.com/rudrabarad/Gifs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
